@@ -8,3 +8,22 @@
 - os version: posix
 - streamlit : 1.43.1
 
+## Melakukan Install dengan 
+pip install streamlit pandas numpy matplotlib seaborn
+
+## Unduk Repository
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+## Pastikan dataset tersedia
+- olist_orders_dataset.csv
+- olist_order_items_dataset.csv
+- olist_products_dataset.csv
+- olist_order_payments_dataset.csv
+- olist_customers_dataset.csv
+- olist_order_reviews_dataset.csv
+
+## Jalankan streamlit
+streamlit run app.py
+
+## Akses dashboard lewat localhost
+http://localhost:8501
